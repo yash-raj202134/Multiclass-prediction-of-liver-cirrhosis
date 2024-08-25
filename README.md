@@ -78,7 +78,6 @@ Where:
 - \(y_{ij}\) is 1 if row \(i\) has the ground truth label \(j\) and 0 otherwise
 - \(p_{ij}\) is the predicted probability that observation \(i\) belongs to class \(j\)
 
-
 ## Methodology
 
 1. **Data Preprocessing**: Cleaning and transforming the dataset to ensure its suitability for modeling.
@@ -94,3 +93,7 @@ Where:
 
 - High accuracy scores during model evaluation.
 - Low log loss values, indicating minimal errors in probability estimates.
+
+## Citation
+
+Walter Reade, Ashley Chow. "Multi-Class Prediction of Cirrhosis Outcomes." Kaggle, 2023. [Online]. Available: https://kaggle.com/competitions/playground-series-s3e26
