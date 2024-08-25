@@ -77,3 +77,20 @@ Where:
 - \(M\) is the number of outcomes (i.e., 3)
 - \(y_{ij}\) is 1 if row \(i\) has the ground truth label \(j\) and 0 otherwise
 - \(p_{ij}\) is the predicted probability that observation \(i\) belongs to class \(j\)
+
+
+## Methodology
+
+1. **Data Preprocessing**: Cleaning and transforming the dataset to ensure its suitability for modeling.
+2. **Feature Engineering**: Extracting relevant information from the dataset and creating new informative features.
+3. **Feature Selection**: Identifying the most predictive features while eliminating redundant ones to optimize model performance.
+4. **Modeling**: Training various machine learning algorithms, including XGBoost, LightGBM, and CatBoost, on the selected features.
+5. **Ensemble Modeling**: Combining predictions from multiple models to enhance predictive accuracy and robustness.
+6. **Evaluation**: Rigorous evaluation, including cross-validation and hyperparameter tuning, to ensure the model's reliability and generalization capability.
+7. **Testing**: Assessing the model's performance on unseen data.
+
+
+## Achievements
+
+- High accuracy scores during model evaluation.
+- Low log loss values, indicating minimal errors in probability estimates.
