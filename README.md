@@ -11,6 +11,7 @@ This project focuses on predicting the survival outcomes of patients with liver 
 
 ### What is Liver Cirrhosis?
 
+![](liver_cirrhosis_image.jpg)
 Liver cirrhosis is a chronic, degenerative condition characterized by the replacement of healthy liver tissue with scar tissue. This scarring impairs the liver's ability to function properly and can lead to liver failure, which is life-threatening. Cirrhosis is often the end stage of chronic liver diseases, including hepatitis, fatty liver disease, and chronic alcoholism.
 
 ### Why is Early Detection Important?
